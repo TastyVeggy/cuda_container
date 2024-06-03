@@ -22,8 +22,6 @@ docker build . -t cuda_container/<project name>:<type>
 docker load -i cuda_container.tar.gz
 ```
 
-Image tag used is just cuda_container
-
 ### 2. Docker container
 
 ```
